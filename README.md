@@ -7,7 +7,7 @@
 <br />
 - ⛳️ 2021 Goal: to find a job as a data scientist
 <br />
-- 🪢 link to my Linkedin profile: [click here][linkedin]
+- 🪢 link to my Linkedin profile: [click here](linkedin)
 
 <br />
 <br />
