@@ -4,7 +4,9 @@
 ### It goes from data viz to Machine Learning and Deep Learning
 <br />
 - 🇨🇦 New comer in Canada
+<br />
 - ⛳️ 2021 Goal: to find a job as a data scientist
+<br />
 - 🪢 link to my Linkedin profile: [click here][linkedin]
 
 <br />
