@@ -7,7 +7,7 @@
 <br />
 - ⛳️ 2021 Goal: to find a job as a data scientist
 <br />
-- 🪢 link to my Linkedin profile: (http://www.linkedin.com/in/florian-akretche'click here')
+- 🪢 link to my Linkedin profile: (http://www.linkedin.com/in/florian-akretche 'click here")
 
 <br />
 <br />
