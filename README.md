@@ -1,7 +1,7 @@
-### Hi there, I'm Florian
+## Hi there, I'm Florian
 
-## you will find here some of the projects I've run.
-## It goes from data viz to Machine Learning and Deep Learning
+### you will find here some of the projects I've run.
+### It goes from data viz to Machine Learning and Deep Learning
 <br />
 - 🇨🇦 New comer in Canada
 - ⛳️ 2021 Goal: to find a job as a data scientist
