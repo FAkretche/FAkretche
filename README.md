@@ -5,7 +5,7 @@
 <br />
 - 🇨🇦 New comer in Canada
 <br />
-- ⛳️ 2021 Goal: To find a job in a data science in my new country
+- ⛳️ 2021 Goal: To find a job in data science in my new country
 <br />
 - 🪢 My Linkedin profile: <a href="http://www.linkedin.com/in/florian-akretche">Click here</a>
 <br />
